@@ -13,8 +13,6 @@
 * Payment QR Code - request generated
 * Subscription status = Pending
 
----
-
 ## TC-02: Approve Payment
 
 **Steps:**
@@ -30,8 +28,6 @@
 * CAPTURE Funds log successfull
 * Sellers balance updated
 * Buyer experience and notification successfull
-
----
 
 ## TC-03: Do Not Approve Payment
 
@@ -61,8 +57,6 @@
 * Prorated order goes into pending to pay status
 * Subscription remains active
 * Next billing cycle gets aproved with new amount
-
----
 
 ## TC-05: Recurring Payment Failure
 
