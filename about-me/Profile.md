@@ -1,7 +1,10 @@
 # Julieth Rodriguez Gomez
-Email:  jrg0613+portfolio@hotmail.com
-Location:  Colombia 
-Remote Worker Availability
+Email:  jrg0613+portfolio@hotmail.com <br>
+Location:  Colombia <br>
+Remote Worker Availability <br>
+
+# Profesional Summary
+Detail-oriented QA Engineer with 3+ years of experience in SaaS environments. Expert in validating complex transactional flows, including subscriptions and checkout integrations. Proven track record in functional, regression within Agile teams. Currently expanding technical stack into Gen AI and automation.
 
 ## Some Facts About me: 
 
@@ -13,5 +16,3 @@ Remote Worker Availability
 - I made a Tandem Jump and loved to Skydive, planning on doing the AFF Course
 - Planning on taking a Data Analyst bootcamp in 2026
 
-# Profesional Summary
-Detail-oriented QA Engineer with 3+ years of experience in SaaS environments. Expert in validating complex transactional flows, including subscriptions and checkout integrations. Proven track record in functional, regression within Agile teams. Currently expanding technical stack into Gen AI and automation.
