@@ -1,8 +1,8 @@
 # Objective
 
-After introducing Pix Automatico as new Payment Method to the Available payment methods in all checkout and storefront types, validate automatic recurring payments using Pix, focusing on asynchronous flows, delayed confirmations, and retry behavior.
-Country: Brazil
-Currency: BRL
+After introducing Pix Automatico as new Payment Method to the Available payment methods in all checkout and storefront types, validate automatic recurring payments using Pix, focusing on asynchronous flows, delayed confirmations, and retry behavior. <br>
+Country: Brazil <br>
+Currency: BRL <br>
 
 ## Scope
 
