@@ -42,8 +42,6 @@
 * Payment expires after 24h
 * Subscription not activated - transition to cancel status
 
----
-
 ## TC-04: Upgrade Subscription
 
 **Steps:**

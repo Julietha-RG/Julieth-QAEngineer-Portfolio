@@ -22,6 +22,13 @@ Focused on identifying revenue-impacting issues, improving reliability, and vali
 - Chargebacks Automation Dashboard Testing
 - UPI Recurring (Upgrades/Downgrades)
 - Fraud Alerts Automation Integration (Ethoca/Verifi)
+  
+- ### 🔹 Pix Automático – Recurring Payments Testing
+Validation of asynchronous Pix recurring flows:
+- API-based payment approval simulation
+- Failure testing via non-approval strategy
+- Retry and expiration behavior
+📁 `projects/paymentMethods/pix-automatico/`
 
 ## How I work
 - I focus on high-risk areas first - If payment method not available when it should business skips making money, if payment method present but transaction does not go through, no $$ and bad reputation. 
