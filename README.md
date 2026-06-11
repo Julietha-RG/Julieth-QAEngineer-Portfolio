@@ -7,9 +7,7 @@ Focused on identifying revenue-impacting issues, improving reliability, and vali
   
 - Payment integration flows testing at checkout levels (cards,Digital wallets, bank tokenized)
 - Chargebacks & dispute lifecycle
-- Fraud & risk alert validation (Ethoca / Verifi)
 - API testing (Postman)
-- Test design for complex systems
 - Playwright/Claude experience automating repetitive tasks
 
 ## 📂 Repository Structure
