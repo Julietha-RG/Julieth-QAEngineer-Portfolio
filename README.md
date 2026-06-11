@@ -17,6 +17,8 @@ Building lightweight automation solutions using Playwright and AI-assisted workf
 - **Databases:** Basic SQL queries (SELECT, WHERE, JOIN for data validation).
 - **Documentation:** Notion, Confluence, Google Docs.
 - **Debugging/Logging:** Browser Developer Tools and Sumo Log Analysis.
+- **EDI:** VSCode - Antigravity
+- **Aritifitial Intelligence:** Claude, Antigravity, ChaGPT, Gemini, Meta.
 
 ###  📊 Highlighted Projects
 
