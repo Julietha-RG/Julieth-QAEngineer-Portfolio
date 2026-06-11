@@ -1,8 +1,8 @@
 ---
 # Julieth Rodriguez - QA Engineer Portfolio
 
-Manual and functional QA specialized in Payments, Risk & Subscriptions.
-Focused on identifying revenue-impacting issues, improving reliability, and validating complex payment flows.
+Manual and functional QA specialized in Payments, Risk & Subscriptions. Focused on identifying revenue-impacting issues, improving reliability, and validating complex payment flows.
+Building lightweight automation solutions using Playwright and AI-assisted workflows to reduce repetitive testing effort.
 
 ### What I can help you with
   - Finding bugs before customers do
@@ -10,6 +10,13 @@ Focused on identifying revenue-impacting issues, improving reliability, and vali
   - API testing with Postman
   - Regression testing
   - Bug reporting
+
+### ⚒️ Tools
+- **Test/Defect Management:** JIRA
+- **API Testing:** Postman (Validating responses and status codes).
+- **Databases:** Basic SQL queries (SELECT, WHERE, JOIN for data validation).
+- **Documentation:** Notion, Confluence, Google Docs.
+- **Debugging/Logging:** Browser Developer Tools and Sumo Log Analysis.
 
 ###  📊 Highlighted Projects
 
