@@ -5,7 +5,7 @@ Focused on identifying revenue-impacting issues, improving reliability, and vali
 
 ## This repository showcases my hands-on experience testing
   
-- Payment integration flows testing at checkout levels (cards, UPI, Pix, Digital wallets)
+- Payment integration flows testing at checkout levels (cards,Digital wallets, bank tokenized)
 - Chargebacks & dispute lifecycle
 - Fraud & risk alert validation (Ethoca / Verifi)
 - API testing (Postman)
@@ -31,11 +31,11 @@ Validation of asynchronous Pix recurring flows:
 📁 `projects/paymentMethods/pix-automatico/`
 
 ## How I work
-- I focus on high-risk areas first - If payment method not available when it should business skips making money, if payment method present but transaction does not go through, no $$ and bad reputation. 
+- I focus on high-risk areas first - If implemented payment method not available when it should and within the market it should business skips making money, if payment method present but transaction does not go through, tons of failed transactions with no reason and bad reputation. 
 - I design tests based on real end user situation: Forgot to scan a QR Code, abandoned payment. 
 - I communicate issues clearly and directly, using spreadsheets to follow up, standups and channels. 
 
 ### Availability
-Open to contractor or employee opportunities in Fintech, Payment Platforms, Gaming Platforms, Subscriptions based products. 
+Open to contractor per hour, per package hour or employee opportunities in Fintech, Payment Platforms, Gaming Platforms, Subscriptions based products. 
 
 **Contact in about-me/profile.md**
