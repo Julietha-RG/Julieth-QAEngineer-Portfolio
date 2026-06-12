@@ -1,15 +1,23 @@
-# MercadoPago Context 
-## Introducing Argentina
-Paymenth Platform already supports MercadoPago for Latam Markets
-- Chile
-- Brazil
-- Mexico
+# :moneybag: Cash App Context
 
-We are going to introduce Argentina support, meaning MercadoPago will be introduced as a Visible and actionable PM(Payment Method) for Argentinan buyers limited to ARS currency.
-This payment method supports One Time Purchases only. 
+## Introduction
 
-## QA Goals for the Project
-- Validate MercadoPago displays for One Time Purhcases products
-- Validate MercadoPago does not display on storefronts set to accept recurring payment methods unless is a perpetual product
-- Validate Buyers get redirected to MercadoPago interface and are sent back to "Confirmation" page within our platform
-- Validate payment Lifecycle by using Logs, statuses and webhooks
+Cash App is an alternative payment method (APM) that allows buyers in the U.S. to complete purchases directly through their Cash App account instead of using traditional payment methods such as credit cards, debit cards, or digital wallets.
+
+## Key Stakeholders and Goals
+
+- ***Seller:*** As a seller, I want to offer Cash App as a payment option to increase conversion rates and provide customers with a payment method they already trust and use.
+
+- ***Buyer:*** As a buyer, I want to pay using Cash App so that I can complete my purchase with my preferred payment method without using a credit card or other digital wallets.
+
+- ***Platform:*** As a payment platform, I want to integrate Cash App as an alternative payment method to expand payment options for merchants, improve checkout conversion, and increase transaction volume.
+
+## Testing Focus
+
+- Payment authorization flow
+- Successful and failed payment scenarios
+- Checkout experience and redirects
+- Transaction status synchronization
+- Refund and cancellation behavior
+- Error handling and recovery flows
+
