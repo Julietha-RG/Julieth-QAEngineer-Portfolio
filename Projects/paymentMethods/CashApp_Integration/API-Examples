@@ -4,9 +4,14 @@
 
 ### Request
 
-POST /payments
+POST /orders
 
 {
-  "amount": 100,
-  "currency": "USD"
+"account": "{{account-id}}",
+    "items": [
+        {
+            "product": "digital-product-download-fee-1",
+            "quantity": 3
+        }
+    ]
 }
