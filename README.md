@@ -24,6 +24,7 @@ Building lightweight automation solutions using Playwright and AI-assisted workf
 
 | Project Name | Type | Project
 |---|---|---|
+<<<<<<< HEAD
 | CashApp
 
 <img src="./images/UPI.png" width="50"> UPI Autopay | Integration - Indian Market| Project link |
@@ -33,6 +34,11 @@ Building lightweight automation solutions using Playwright and AI-assisted workf
 | CashApp
 
 <img src="./images/cashapp.png" width="50"> CashApp | Integration - USA | Project Link |
+=======
+| UPI Autopay | Integration - Indian Market| [Project link](https://github.com/Julietha-RG/Julieth-QAEngineer-Portfolio/tree/334381845da844bf2f237b04eefcf860db7620c7/Projects/paymentMethods/UPIRecurring) |
+| Pix Automatico |Integration - Brazilian Market | [Project link](https://github.com/Julietha-RG/Julieth-QAEngineer-Portfolio/tree/334381845da844bf2f237b04eefcf860db7620c7/Projects/paymentMethods/PixAutomatic)|
+| <img src="./images/cashapp.png" width="20"> CashApp | Integration - USA | [Project link](https://github.com/Julietha-RG/Julieth-QAEngineer-Portfolio/tree/334381845da844bf2f237b04eefcf860db7620c7/Projects/paymentMethods/CashApp_Integration) |
+>>>>>>> 3f137c1474ce25dd23d73155720dad66d4f8b1ef
 
 
 ### This repository briefly showcases some of my hands-on experience testing
