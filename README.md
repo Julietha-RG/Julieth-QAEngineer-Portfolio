@@ -1,24 +1,21 @@
 ---
-# Julieth Rodriguez - QA Engineer Portfolio
+# Julieth Rodriguez <br> Manual & Automation QA Engineer 
 
 Manual and functional QA specialized in Payments, Risk & Subscriptions. Focused on identifying revenue-impacting issues, improving reliability, and validating complex payment flows.
 Building lightweight automation solutions using Playwright and AI-assisted workflows to reduce repetitive testing effort.
 
-### What I can help you with
-  - Finding bugs before customers do
-  - Testing payment flows
-  - API testing with Postman
-  - Regression testing
-  - Bug reporting
+### This repository briefly showcases some of my hands-on experience in testing
 
-### ⚒️ Tools
-- **Test/Defect Management:** JIRA
-- **API Testing:** Postman (Validating responses and status codes).
-- **Databases:** Basic SQL queries (SELECT, WHERE, JOIN for data validation).
-- **Documentation:** Notion, Confluence, Google Docs.
-- **Debugging/Logging:** Browser Developer Tools and Sumo Log Analysis.
-- **EDI:** VSCode - Antigravity
-- **Aritifitial Intelligence:** Claude, Antigravity, ChaGPT, Gemini, Meta.
+- Payment integration flows at checkout levels
+- Playwright/Claude experience automating repetitive tasks
+- RestAPI testing (Postman)
+
+  
+
+| What I Can Help You With | ⚒️ Tools & Technologies |
+|---|---|
+| • Finding bugs before customers do <br> • Testing payment and checkout flows <br> • API testing and validation <br> • Regression and exploratory testing <br> • Bug investigation and reporting <br> • Risk and payment integration testing | **Test & Defect Management:** Jira <br> **API Testing:** Postman (request/response validation, <br> status codes, payload verification) <br> **Databases:** Basic SQL (SELECT, WHERE,<br> JOIN for data validation) <br> **Documentation:** Confluence, Notion, Google Docs <br> **Debugging & Logging:** Browser Developer Tools, Sumo Logic <br> **Development Tools:** VS Code, Antigravity <br> **AI-Assisted Workflows:** Claude, ChatGPT, Gemini, Meta AI |
+
 
 ###  📊 Highlighted Projects
 
@@ -27,13 +24,8 @@ Building lightweight automation solutions using Playwright and AI-assisted workf
 | <img src="./Images/UPI.png" width="30">  UPI Autopay | Integration - Indian Market| [Project link](https://github.com/Julietha-RG/Julieth-QAEngineer-Portfolio/tree/334381845da844bf2f237b04eefcf860db7620c7/Projects/paymentMethods/UPIRecurring)|
 | <img src="./Images/Pix.png" width="30">  Pix Automatico |Integration - Brazilian Market | [Project link](https://github.com/Julietha-RG/Julieth-QAEngineer-Portfolio/tree/334381845da844bf2f237b04eefcf860db7620c7/Projects/paymentMethods/PixAutomatic)|
 | <img src="./Images/CashApp.png" width="30">  CashApp | Integration - USA | [Project link](https://github.com/Julietha-RG/Julieth-QAEngineer-Portfolio/tree/334381845da844bf2f237b04eefcf860db7620c7/Projects/paymentMethods/CashApp_Integration) |
+| <img src="./Images/Playwright.png" width="30">  CashApp | Integration - USA | [Project link](https://github.com/Julietha-RG/Julieth-QAEngineer-Portfolio/tree/334381845da844bf2f237b04eefcf860db7620c7/Projects/paymentMethods/CashApp_Integration) |
 
-
-### This repository briefly showcases some of my hands-on experience testing
-
-- Payment integration flows at checkout levels
-- Playwright/Claude experience automating repetitive tasks
-- RestAPI testing (Postman)
 
 ### My working style
 - I like to refine projects and break down big chunks into small and workable deliverables
