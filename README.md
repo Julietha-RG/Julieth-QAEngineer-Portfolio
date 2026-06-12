@@ -24,9 +24,15 @@ Building lightweight automation solutions using Playwright and AI-assisted workf
 
 | Project Name | Type | Project
 |---|---|---|
-| UPI Autopay | Integration - Indian Market| Project link |
-| Pix Automatico |Integration - Brazilian Market | Project link|
-| CashApp | Integration - USA | Project Link |
+| CashApp
+
+<img src="./images/UPI.png" width="50"> UPI Autopay | Integration - Indian Market| Project link |
+| CashApp
+
+<img src="./images/Pix.png" width="50"> Pix Automatico |Integration - Brazilian Market | Project link|
+| CashApp
+
+<img src="./images/cashapp.png" width="50"> CashApp | Integration - USA | Project Link |
 
 
 ### This repository briefly showcases some of my hands-on experience testing
