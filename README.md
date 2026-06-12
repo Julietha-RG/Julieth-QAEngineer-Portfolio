@@ -22,23 +22,11 @@ Building lightweight automation solutions using Playwright and AI-assisted workf
 
 ###  📊 Highlighted Projects
 
-| Project Name | Type | Project
+| Project Name | Type | Project |
 |---|---|---|
-<<<<<<< HEAD
-| CashApp
-
-<img src="./images/UPI.png" width="50"> UPI Autopay | Integration - Indian Market| Project link |
-| CashApp
-
-<img src="./images/Pix.png" width="50"> Pix Automatico |Integration - Brazilian Market | Project link|
-| CashApp
-
-<img src="./images/cashapp.png" width="50"> CashApp | Integration - USA | Project Link |
-=======
-| UPI Autopay | Integration - Indian Market| [Project link](https://github.com/Julietha-RG/Julieth-QAEngineer-Portfolio/tree/334381845da844bf2f237b04eefcf860db7620c7/Projects/paymentMethods/UPIRecurring) |
-| Pix Automatico |Integration - Brazilian Market | [Project link](https://github.com/Julietha-RG/Julieth-QAEngineer-Portfolio/tree/334381845da844bf2f237b04eefcf860db7620c7/Projects/paymentMethods/PixAutomatic)|
-| <img src="./images/cashapp.png" width="20"> CashApp | Integration - USA | [Project link](https://github.com/Julietha-RG/Julieth-QAEngineer-Portfolio/tree/334381845da844bf2f237b04eefcf860db7620c7/Projects/paymentMethods/CashApp_Integration) |
->>>>>>> 3f137c1474ce25dd23d73155720dad66d4f8b1ef
+| <img src="./Images/UPI.png" width="30">  UPI Autopay | Integration - Indian Market| [Project link](https://github.com/Julietha-RG/Julieth-QAEngineer-Portfolio/tree/334381845da844bf2f237b04eefcf860db7620c7/Projects/paymentMethods/UPIRecurring)|
+| <img src="./Images/Pix.png" width="30">  Pix Automatico |Integration - Brazilian Market | [Project link](https://github.com/Julietha-RG/Julieth-QAEngineer-Portfolio/tree/334381845da844bf2f237b04eefcf860db7620c7/Projects/paymentMethods/PixAutomatic)|
+| <img src="./Images/CashApp.png" width="30">  CashApp | Integration - USA | [Project link](https://github.com/Julietha-RG/Julieth-QAEngineer-Portfolio/tree/334381845da844bf2f237b04eefcf860db7620c7/Projects/paymentMethods/CashApp_Integration) |
 
 
 ### This repository briefly showcases some of my hands-on experience testing
